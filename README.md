@@ -24,6 +24,6 @@ Texts
 There are 20 texts used as stimuli for the data collection, nine of which were used in Experiment 1 (1 - 9), eight in Experiment 2
 (10 - 17) and three in Experiment 3 (17 - 20).
 
-Forms and Questionnaires
+Task Descriptions, Forms and Questionnaires
 
 This folder contains the consent form which had to be signed by each particiant, a copy of the demographic questionnaire and an easy-to-read version of the task description. The participant information sheet and the PDF file containing the formal ethical approval are not included in order to preserve anonymity.
